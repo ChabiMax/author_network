@@ -7,7 +7,3 @@ Question de recherche:
 
 - créer réseaux en prenant en compte contemporanéité: un réseau lien interauteurs ET contemporains, un réseau même genre ET contemporain, 
   un réseau même genre ET PAS contemporain
-  
-  
-  TO DO:
- - remplir les colonnes "contemporain", etc
