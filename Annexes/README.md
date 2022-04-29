@@ -1,1 +1,1 @@
-# Folder containing all files that are a supplement
+# Folder containing all files that are not useful anaymore
