@@ -3,3 +3,4 @@
 
 - The Data folder contains the data collected for the analyses.
 - The Code folder contains the scripts to conduct the analyses.
+- The document 'Chabriel_Houri_Sansu_Rapport_SRSE.pdf' is the final report for this project.
